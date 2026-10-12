@@ -3,6 +3,7 @@
 An interactive **Power BI dashboard** designed to analyze Suzuki motorcycle sales performance across **models, regions, and time periods**, with dynamic KPIs, trend analysis, and interactive navigation.
 
 ## 📸 Dashboard Preview
+[View LinkedIn Post](https://lnkd.in/p/dhT-sC3N)
 
 ![Suzuki Motorcycle Sales Dashboard](YOUR-IMAGE-PATH)
 
